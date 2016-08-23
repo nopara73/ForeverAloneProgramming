@@ -2,7 +2,7 @@
 Software Development Methodology for sole developers
 
 ##Motivation
-I have been struggling to find any minimal software developer methodology that can work for relatively small one-two person projects.  
+I have been struggling to find any minimal software development methodology that can work for relatively small one-two person projects.  
 When I researched the topic it was not uncommon to find testimonies like ["I held a progress meeting with myself over a one-man burn down chart every morning"](http://programmers.stackexchange.com/questions/59713/best-development-methodology-for-one-person).  
 
 Personally [Programming motherfucker](http://programming-motherfucker.com/) style cowboy programming often lead me to unfinished projects and frustration.  
