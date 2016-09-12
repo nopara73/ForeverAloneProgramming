@@ -1,11 +1,11 @@
-# ForeverAlone: Getting Shit Done  
-Roadmap and Software Development Methodology for Sole Programmers and Freelancers
+# Forever Alone Process (FAP)  
+Software Development Methodology and Roadmap for Sole Programmers and Freelancers
 
 ##Motivation
-I have been struggling to find any minimal software development methodology that can work for relatively small, one-two person projects.  
+I had been struggling to find any minimal software development methodology that can work for relatively small, one-two person projects.  
 When I researched the topic it was not uncommon to find testimonies like ["I held a progress meeting with myself over a one-man burn down chart every morning"](http://programmers.stackexchange.com/questions/59713/best-development-methodology-for-one-person).  
 
-Personally [Programming motherfucker](http://programming-motherfucker.com/) style cowboy programming often lead me to unfinished projects and frustration. Sadly I was never able to fully get the hang of the popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down to our throats, way before we ever acquired any software development experience. Despite the bad timing on learning it, I liked it. This gave me the first insight to the big picture of what the hell is going on in a corporate ~~workpace~~ playground. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
+Personally [Programming motherfucker](http://programming-motherfucker.com/) style cowboy programming often lead me to unfinished projects and frustration, I am just not that good yet. Sadly I was never able to fully get the hang of the today popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down our throats, way before we ever acquired any software development experience. Despite the bad timing on learning it, I liked it. This gave me the first insight to the big picture of what the hell is going on in a corporate ~~workpace~~ playground. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
 
 > If nobody supervises you, you have to supervise yourself. (Bucket list, Item 179, status: completed - first time  I quote myself.)  
   
@@ -15,13 +15,17 @@ I also noticed there are many repetitive administrative work I was doing over an
 ## Disclaimer:
 I am not an expert on the topic, I just outline a process that works better for me, than anything else I tried before.  
 
+## Why this name?  
+Because if you like this process you can recommend it in forums, somehow like this: "Did you try to [FAP](https://github.com/nopara73/ForeverAloneProcess)?
+
 ## Before you start
+
 ### Ask yourself 
-Is FA methodology right for you?  
+**Should I FAP together my next project?**  
+Fortunately there is a mechanic way to decide it, by asking two questions.  
+1. Does my project involve more than three developers?  
+If your answer to this question is yes, then your answer to the main question is no.  
+2. What stage am I in the [Dreyfus model](https://github.com/nopara73/ForeverAloneProcess/wiki/Dreyfus)?  
+If your answer to this question is not Advanced Beginner or Competent, then your answer to the main question is no.  
 
-1. 
-
-
-### 
-
-## [Start on the Wiki pages!](https://github.com/nopara73/ForeverAlone/wiki)
+## [Start on the Wiki pages!](https://github.com/nopara73/ForeverAloneProcess/wiki)
