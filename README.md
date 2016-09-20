@@ -1,4 +1,4 @@
-# Forever Alone Programming (FAP)  
+# Forever Alone Programming - Do you even FAP bro?
 Software Development Methodology for Sole Programmers and Roadmap for Freelancers
 
 ##Motivation
@@ -14,9 +14,6 @@ I also noticed there are many repetitive administrative work I was doing over an
 
 ## Disclaimer:
 I am not an expert on the topic, I just outline a process that works better for me, than anything else I tried before.  
-
-## Why this name?  
-Because if you like this process you can recommend it on the internet, somehow like this: "Have you tried to [FAP](https://github.com/nopara73/ForeverAloneProgramming)?". Or if it accidentally gets well-known you can say: "Do you even [FAP](https://github.com/nopara73/ForeverAloneProgramming) bro?"
 
 ## Before you start
 
