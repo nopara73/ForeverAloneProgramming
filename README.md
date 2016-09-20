@@ -26,4 +26,4 @@ If your answer to this question is not Advanced Beginner or Competent, then your
 
 ### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
-## [Start on the Wiki pages!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
+# [Start on the Wiki pages!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
