@@ -1,4 +1,4 @@
-# Forever Alone Programming - Do you even FAP bro?
+# Forever Alone Programming - Do you even FAP, bro?
 Software Development Methodology for Sole Programmers and Roadmap for Freelancers
 
 ##Motivation
