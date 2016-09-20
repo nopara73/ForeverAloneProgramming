@@ -17,15 +17,13 @@ I am not an expert on the topic, I just outline a process that works better for 
 
 ## Before you start
 
-### Ask yourself 
-**Should I FAP together my next project?**  
+### Ask yourself: "Should I FAP together my next project?"   
 Fortunately there is a mechanic way to decide it, by asking two questions.  
 1. Does my project involve more than three developers?  
 If your answer to this question is yes, then your answer to the main question is no.  
 2. What stage am I in the [Dreyfus model](https://github.com/nopara73/ForeverAloneProgramming/wiki/The-Five-Dreyfus-Model-Stages)?  
 If your answer to this question is not Advanced Beginner or Competent, then your answer to the main question is no.  
 
-### Read
-[Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
+### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
 ## [Start on the Wiki pages!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
