@@ -26,4 +26,4 @@ If your answer to this question is not Advanced Beginner or Competent, then your
 
 ### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
-# Ready? Start [FAPPING!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
+# Ready? [Start FAPPING!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
