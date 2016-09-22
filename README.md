@@ -17,17 +17,17 @@ I am not an expert on the topic, I just outline a process that works better for 
 
 ## Before you start
 
-### Ask yourself: "Is FAP for me?"   
+## Ask yourself: "Is FAP for me?"   
 Fortunately there is a mechanic way to decide it, by asking two questions.  
 1. Does my project involve more than three developers?  
 If your answer to this question is yes, then your answer to the main question is no.  
 2. What stage am I in the [Dreyfus model](https://github.com/nopara73/ForeverAloneProgramming/wiki/The-Five-Dreyfus-Model-Stages)?  
 If your answer to this question is not Advanced Beginner or Competent, then your answer to the main question is no.  
 
-### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
+## Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
 |Tip|
 ---
-|Are you sharing my obsession with books, TED talks and self-improvement? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply that information at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something your are enthusiastic about, **consider forking this repository and improve upon it** every time you have gain a new insight. And the guilty feeling will evaporate.|
+|Are you sharing my obsession with books, TED talks and self-improvement? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply that information at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something your are enthusiastic about, **consider forking this repository and improve upon it** every time you gain a new insight. And the guilty feeling will evaporate.|
 
 # Ready? [Go!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
