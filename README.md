@@ -1,4 +1,4 @@
-# Forever Alone Programming - Do you even FAP, bro?
+# Forever Alone Programming
 Software Development Methodology for Sole Programmers and Roadmap for Freelancers
 
 ##Motivation
@@ -17,7 +17,7 @@ I am not an expert on the topic, I just outline a process that works better for 
 
 ## Before you start
 
-### Ask yourself: "Should I FAP together my next project?"   
+### Ask yourself: "Is FAP for me?"   
 Fortunately there is a mechanic way to decide it, by asking two questions.  
 1. Does my project involve more than three developers?  
 If your answer to this question is yes, then your answer to the main question is no.  
@@ -26,4 +26,4 @@ If your answer to this question is not Advanced Beginner or Competent, then your
 
 ### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
-# Ready? [Start FAPPING!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
+# Ready? [Go!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
