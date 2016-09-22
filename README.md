@@ -26,4 +26,8 @@ If your answer to this question is not Advanced Beginner or Competent, then your
 
 ### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
+|Tip|
+---
+|Are you sharing my obsession with books, TED talks and self-improvement? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply that information at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something your are enthusiastic about, **consider forking this repository and improve upon it** every time you have gain a new insight. And the guilty feeling will evaporate.|
+
 # Ready? [Go!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
