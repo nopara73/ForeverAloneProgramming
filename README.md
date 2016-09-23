@@ -1,5 +1,6 @@
 # Forever Alone Programming
-Software Development Methodology for Sole Programmers and Roadmap for Freelancers
+Software Development Methodology for Sole Programmers and Small Teams
+Project Development Roadmap for Freelancers
 
 ##Motivation
 I had been struggling to find any minimal software development methodology that can work for relatively small, one-two person projects.  
