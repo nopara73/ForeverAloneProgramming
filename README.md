@@ -4,8 +4,12 @@ Software Development Methodology for Sole Programmers and Small Teams
 Project Development Roadmap for Freelancers
 
 ##Motivation
-I had been struggling to find any minimal software development methodology that can work for relatively small, one-two person projects.  
+I had been struggling to find any lean software development methodology that can work for small team projects.  
 When I researched the topic it was not uncommon to find testimonies like ["I held a progress meeting with myself over a one-man burn down chart every morning"](http://programmers.stackexchange.com/questions/59713/best-development-methodology-for-one-person).  
+
+|Quote|
+---
+|I know something's coming. Something big. Like a train, and all I want is to jump on board, but it's getting faster and faster and I'm terrified that I'm gonna miss it.|
 
 Personally [Programming motherfucker](http://programming-motherfucker.com/) style cowboy programming often lead me to unfinished projects and frustration, I am just not that good yet. Sadly I was never able to fully get the hang of the today popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down our throats, way before we ever acquired any software development experience. Despite the bad timing on learning it, I liked it. This gave me the first insight to the big picture of what the hell is going on in a corporate ~~workpace~~ playground. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
 
