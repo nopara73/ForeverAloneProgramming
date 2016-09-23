@@ -24,7 +24,7 @@ I am not an expert on the topic, I just outline a practical roadmap that works b
 
 ## Before you start
 
-### Ask yourself: "Is FAP for me?"   
+### Ask yourself: "Is FAP right for me?"   
 Fortunately there is a mechanic way to decide it, by answering a few questions.  
 1. Does my project involve a small team?  
 2. Am I mostly my own boss?  
