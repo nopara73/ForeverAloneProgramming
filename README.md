@@ -25,7 +25,9 @@ I am not an expert on the topic, I just outline a practical roadmap that works b
 ## Before you start
 
 ### Ask yourself: "Is FAP right for me?"
-- If you do not enjoy autonomy over how you do your project and what project you do, it is not for you. I mean you should not be a slave in a master-slave relationship with any person or company, you should at least be a partner. "I give you $1,000 to build this website for me." - FAP is not for you. "I have $1,000, would you like to build a website with me?" - FAP is for you.
+- If you do not enjoy autonomy on what project you do and how you do your project, it is not for you. I mean you should not be a slave in a master-slave relationship with any person or company, you should at least be a partner.  
+  -"I give you $1,000 to build this website for me." - FAP is not for you.  
+  -"I have $1,000, would you like to build a website with me?" - FAP is for you.  
 - If you have more than a couple of people working for you, it is not the best way to go either.  
 - If you have no experience in the skills your project is expected to be built upon, you would find this method confusing and I do not think is suitable for you.  
 - The other side of the scale is excluding too. If you are the absolute expert on the field, do not bother with FAP, you have already developed practices those are more suitable for you.
