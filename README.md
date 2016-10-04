@@ -12,24 +12,23 @@ Whenever I researched the topic it was not uncommon to find testimonies like ["I
 |I know something's coming. Something big. Like a train, and all I want is to jump on board, but it's getting faster and faster and I'm terrified that I'm gonna miss it.  
 Ryan, Halt and Catch Fire|
 
-[Programming motherfucker](http://programming-motherfucker.com/), [cowboy programming](https://en.wikipedia.org/wiki/Cowboy_coding) are what developers naturally [choose](https://www.youtube.com/watch?v=x4vXGJ19Izw) when they finally find the time to work on a hobby project that they are enthusiastic about. This of course if you are not the [very best](https://www.youtube.com/watch?v=zGkcnUy3l-c) expert with lots of [stamina](https://www.youtube.com/watch?v=QueWMFokFRw) will probably lead you to unfinished projects and frustration. Sadly I was never able to fully get the hang of the today popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down our throats, way before we ever acquired any software development experience. Despite the bad timing on learning it, I liked it. This gave me the first insight to the big picture of what the hell is going on in the corporate ~~workpace~~ playground. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
+[Programming motherfucker](http://programming-motherfucker.com/), [cowboy programming](https://en.wikipedia.org/wiki/Cowboy_coding) are what developers naturally [choose](https://www.youtube.com/watch?v=x4vXGJ19Izw) when they finally find the time to work on a hobby project that they are enthusiastic about. This of course if you are not the [very best](https://www.youtube.com/watch?v=zGkcnUy3l-c) expert with lots of [stamina](https://www.youtube.com/watch?v=QueWMFokFRw) will probably lead you to unfinished projects and frustration. Sadly I was never able to fully get the hang of the today popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down our throats, way before we ever acquired any software development experience. Despite the bad timing, I liked it. This gave me the first insight to what is going on in an office. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
 
-> If nobody supervises you, you have to supervise yourself. (Bucket list, Item 179, status: completed - first time  I quote myself.)  
+> If nobody supervises you, you have to supervise yourself.
   
 Time flew, things changed, books were read, experience were gained and I found myself using a reduced, lean, flexible and completely raped version of AUP.  
-Now, the time finally came to armor myself with a guide on this development process.  
+Now, the time has finally came to armor myself with a guide on this development process.  
 
 ## Disclaimer:
 I am not an expert on the topic, I just outline a practical roadmap that works better for me, than anything else I tried before.  
 
 ## Before you start
 
-### Ask yourself: "Is FAP right for me?"   
-Fortunately there is a mechanic way to decide it, by answering a few questions.  
-1. Does my project involve a small team?  
-2. Am I mostly my own boss?  
-3. What stage am I at the [Dreyfus model](https://github.com/nopara73/ForeverAloneProgramming/wiki/The-Five-Dreyfus-Model-Stages)?  
-If your answer to this question is not `Advanced Beginner`, `Competent` or maybe `Proficient`, then your answer to the main question is no.  
+### Ask yourself: "Is FAP right for me?"
+If you do not enjoy complete autonomy on the project you want to apply it, you better not even try.  
+If you have more than a couple of people working for you, it is not the best way to go either.  
+If you have no experience in the skills your project is built upon this method can be confusing and I do not think is suitable.  
+The other side of the scale is excluding too. If you are the absolute expert on the field, do not bother with FAP, you have already developed practices those are more suitable for you.
 
 ### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
