@@ -25,15 +25,15 @@ I am not an expert on the topic, I just outline a practical roadmap that works b
 ## Before you start
 
 ### Ask yourself: "Is FAP right for me?"
-If you do not enjoy complete autonomy on the project you want to apply it, you better not even try.  
+If you do not enjoy complete autonomy over how you do your project (better: what project you do), it is not for you.  
 If you have more than a couple of people working for you, it is not the best way to go either.  
-If you have no experience in the skills your project is built upon this method can be confusing and I do not think is suitable.  
+If you have no experience in the skills your project is expected to be built upon, you would find this method confusing and I do not think is suitable for you.  
 The other side of the scale is excluding too. If you are the absolute expert on the field, do not bother with FAP, you have already developed practices those are more suitable for you.
 
 ### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
 
 |Tip|
 ---
-|Are you sharing my obsession with books, TED talks and similar materials? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply them at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something your are enthusiastic about, **consider forking this repository and improve upon it** every time you gain a new insight. And the guilty feeling will evaporate.|
+|Are you sharing my obsession with books, TED talks and similar materials? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply them at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something you care about, **consider forking this repository and improve upon it** every time you gain a new insight. And the guilty feeling will evaporate.|
 
 # Ready? [Go!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
