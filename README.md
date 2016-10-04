@@ -4,7 +4,7 @@ Software Development Methodology for Solo Programmers and Small Teams
 Project Development Roadmap for Freelancers
 
 ##Motivation
-I had been struggling to find any lean software development methodology that can work for small teams.  
+I had been struggling to find any lean software development methodology that can work for solo programmers.  
 Whenever I researched the topic it was not uncommon to find testimonies like ["I held a progress meeting with myself over a one-man burn down chart every morning"](http://programmers.stackexchange.com/questions/59713/best-development-methodology-for-one-person).  
 
 |Quote|
@@ -12,7 +12,7 @@ Whenever I researched the topic it was not uncommon to find testimonies like ["I
 |I know something's coming. Something big. Like a train, and all I want is to jump on board, but it's getting faster and faster and I'm terrified that I'm gonna miss it.  
 Ryan, Halt and Catch Fire|
 
-Personally [Programming motherfucker](http://programming-motherfucker.com/) style cowboy programming often led me to unfinished projects and frustration, I am just not that good yet. Sadly I was never able to fully get the hang of the today popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down our throats, way before we ever acquired any software development experience. Despite the bad timing on learning it, I liked it. This gave me the first insight to the big picture of what the hell is going on in the corporate ~~workpace~~ playground. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
+[Programming motherfucker](http://programming-motherfucker.com/), [cowboy programming](https://en.wikipedia.org/wiki/Cowboy_coding) are what developers naturally [choose](https://www.youtube.com/watch?v=x4vXGJ19Izw) when they finally find the time to work on a hobby project that they are enthusiastic about. This of course if you are not the [very best](https://www.youtube.com/watch?v=zGkcnUy3l-c) expert with lots of [stamina](https://www.youtube.com/watch?v=QueWMFokFRw) will probably lead you to unfinished projects and frustration. Sadly I was never able to fully get the hang of the today popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down our throats, way before we ever acquired any software development experience. Despite the bad timing on learning it, I liked it. This gave me the first insight to the big picture of what the hell is going on in the corporate ~~workpace~~ playground. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
 
 > If nobody supervises you, you have to supervise yourself. (Bucket list, Item 179, status: completed - first time  I quote myself.)  
   
