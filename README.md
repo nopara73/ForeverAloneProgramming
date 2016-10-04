@@ -14,7 +14,9 @@ Ryan, Halt and Catch Fire|
 
 [Programming motherfucker](http://programming-motherfucker.com/), [cowboy programming](https://en.wikipedia.org/wiki/Cowboy_coding) are what developers naturally [choose](https://www.youtube.com/watch?v=x4vXGJ19Izw) when they finally find the time to work on a hobby project that they are enthusiastic about. This of course if you are not the [very best](https://www.youtube.com/watch?v=zGkcnUy3l-c) expert with lots of [stamina](https://www.youtube.com/watch?v=QueWMFokFRw) will probably lead you to unfinished projects and frustration. Sadly I was never able to fully get the hang of the today popular [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development), no matter how much I tried. So I went back in time to university, where the infamous, traditional [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_Unified_Process) had been forced down our throats, way before we ever acquired any software development experience. Despite the bad timing, I liked it. This gave me the first insight to what is going on in an office. Several years ago this thread of thoughts led me to [Agile Unified Process](http://www.ambysoft.com/unifiedprocess/agileUP.html) (AUP) and started to use it in my solo projects.  
 
-> If nobody supervises you, you have to supervise yourself.
+|Tip|
+---
+|If nobody supervises you, you have to supervise yourself.|
   
 Time flew, things changed, books were read, experience were gained and I found myself using a reduced, lean, flexible and completely raped version of AUP.  
 Now, the time has finally came to armor myself with a guide on this development process.  
