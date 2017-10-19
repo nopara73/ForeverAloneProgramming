@@ -5,15 +5,12 @@ Project Development Roadmap for Freelancers
 
 ## Table Of Contents
 
-[Overview](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)
-
-1. [Inception](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Inception.md)
-2. [Elaboration](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md)
-3. [Construction](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Construction.md)
-4. [Transition](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Transition.md)
-
-[Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/blob/master/ToolTrap.md)
-
+[Overview](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)  
+&nbsp;&nbsp;&nbsp;[1. Inception](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Inception.md)  
+&nbsp;&nbsp;&nbsp;[2. Elaboration](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md)  
+&nbsp;&nbsp;&nbsp;[3. Construction](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Construction.md)  
+&nbsp;&nbsp;&nbsp;[4. Transition](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Transition.md)  
+[Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/blob/master/ToolTrap.md)  
 
 ## Motivation
 I had been struggling to find any lean software development methodology that can work for solo programmers.  
