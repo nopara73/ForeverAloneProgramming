@@ -1,0 +1,15 @@
+> [The Agile Unified Process (AUP)](http://www.ambysoft.com/unifiedprocess/agileUP.html#Overview) is a simplified version of the Rational Unified Process (RUP). It describes a simple, easy to understand approach to developing business application software using agile techniques and concepts yet still remaining true to the RUP.  
+
+I have stolen the skeleton of AUP. This crime was an organic process, I had been using AUP for so long, at so many projects that one day I realized I am no longer doing it anymore. This is how Forever Alone Programming borned.
+
+# Overview  
+![](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Resources/AUPLifecycle.png)
+
+This graph depicts of a simplified lifecycle of the AUP.  
+Start your software at the Inception and "finish" it with the Transition phase. During every phase pay sufficent attention to the other dimension: Modelling, Implementation, Testing... The amount of attention you ideally pay on these is indicated by the colored lines of the graph.  
+  
+## [Phases](http://www.ambysoft.com/unifiedprocess/agileUP.html#Serial)
+1. [Inception](https://github.com/nopara73/ForeverAloneProgramming/wiki/1.-Inception): The goal is to identify the initial scope of the project.
+2. [Elaboration](https://github.com/nopara73/ForeverAloneProgramming/wiki/2.-Elaboration): The goal is to ensure that the team can actually develop a system that satisfies the requirements.
+3. [Construction](https://github.com/nopara73/ForeverAloneProgramming/wiki/3.-Construction): The goal is to build working software.
+4. [Transition](https://github.com/nopara73/ForeverAloneProgramming/wiki/4.-Transition): The goal is to validate and deploy your system into your production environment.
