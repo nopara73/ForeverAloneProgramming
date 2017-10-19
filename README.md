@@ -5,12 +5,14 @@ Project Development Roadmap for Freelancers
 
 ## Table Of Contents
 
-- [Overview](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)
+[Overview](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)
+
 1. [Inception](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Inception.md)
 2. [Elaboration](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md)
 3. [Construction](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Construction.md)
 4. [Transition](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Transition.md)
-- [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/blob/master/ToolTrap.md)
+
+[Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/blob/master/ToolTrap.md)
 
 
 ## Motivation
