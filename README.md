@@ -3,6 +3,16 @@
 Software Development Methodology for Solo Programmers and Small Teams  
 Project Development Roadmap for Freelancers
 
+## Table Of Contents
+
+- [Overview](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)
+1. [Inception](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Inception.md)
+2. [Elaboration](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md)
+3. [Construction](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Construction.md)
+4. [Transition](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Transition.md)
+- [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/blob/master/ToolTrap.md)
+
+
 ## Motivation
 I had been struggling to find any lean software development methodology that can work for solo programmers.  
 Whenever I researched the topic it was not uncommon to find testimonies like ["I held a progress meeting with myself over a one-man burn down chart every morning"](http://programmers.stackexchange.com/questions/59713/best-development-methodology-for-one-person).  
@@ -34,10 +44,10 @@ I am not an expert on the topic, I just outline a practical roadmap that works b
 - If you have no experience in the skills your project is expected to be built upon, you would find this method confusing and I do not think is suitable for you.  
 - The other side of the scale is excluding too. If you are the absolute expert on the field, do not bother with FAP, you have already developed practices those are more suitable for you.
 
-### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/wiki/Beware-the-Tool-Trap)  
+### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/blob/master/ToolTrap.md)  
 
 |Tip|
 |---|
 |Are you sharing my obsession with books, TED talks and similar materials? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply them at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something you care about, **consider forking this repo, cloning its wiki have your own version and improve upon it** every time you gain a new insight. And the guilty feeling will evaporate.|
 
-# Ready? [Go!](https://github.com/nopara73/ForeverAloneProgramming/wiki)
+# Ready? [Go!](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)
