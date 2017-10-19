@@ -3,7 +3,7 @@
 Software Development Methodology for Solo Programmers and Small Teams  
 Project Development Roadmap for Freelancers
 
-##Motivation
+## Motivation
 I had been struggling to find any lean software development methodology that can work for solo programmers.  
 Whenever I researched the topic it was not uncommon to find testimonies like ["I held a progress meeting with myself over a one-man burn down chart every morning"](http://programmers.stackexchange.com/questions/59713/best-development-methodology-for-one-person).  
 
