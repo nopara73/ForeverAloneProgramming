@@ -6,7 +6,7 @@ I have stolen the skeleton of AUP. This crime was an organic process, I had been
 ![](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Resources/AUPLifecycle.png)
 
 This graph depicts the simplified lifecycle of AUP.  
-Start your software at the Inception and "finish" it with the Transition phase. During every phase pay sufficent attention to the other dimension: Modelling, Implementation, Testing... The amount of attention you ideally pay on these is indicated by the colored lines of the graph.  
+Start your software at the Inception phase and "finish" it with the Transition phase. During each and every phase pay sufficent attention to the other dimension: Modelling, Implementation, Testing... The amount of attention you ideally pay on these is indicated by the colored lines of the graph.  
   
 ## [Phases](http://www.ambysoft.com/unifiedprocess/agileUP.html#Serial)
 1. [Inception](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Inception.md): The goal is to identify the initial scope of the project.
