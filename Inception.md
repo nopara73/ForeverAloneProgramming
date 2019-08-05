@@ -37,20 +37,8 @@ What the system will and will not do? I usually just make a list these in a text
 
 ## 4. (ProjectManagement) Estimate cost and schedule
 
-With each key deliverable listed at high level it is now time to break the deliverable down into smaller sub-deliverables. Thinking about the steps needed to achieve each key deliverable will come in useful later on when you start doing proof-of-concept work. You don't need to go into too much detail here - that will come later in the Elaborate phase. An example might be:
-
-Key Deliverable:
-
-1.  Allow users to message everyone in their contacts all at once or per-group.
-
-    1.1 Allow users to create groups
-
-    1.2 Allow users to assign contacts to one or more groups
-
-    1.3 Add a 'send to group' option which lets users pick which group/s to send to
-
 At this point it is fine to give a gut feeling estimation on how long every phase will take.  
-You can get a more accurate estimation for the Construction (and Deployment) phase by giving an time estimation to every high level requirements you defined.  
+You can get a more accurate estimation for the Construction (and Deployment) phase by giving a time estimation to every high level requirements you defined.  
 Regarding the costs, try to identify the main ones. But remember the motto of this phase: do not get lost in details.
 
 ## 5. (ProjectManagement) Determine project feasibility
