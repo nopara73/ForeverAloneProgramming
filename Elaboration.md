@@ -1,3 +1,5 @@
+# II. Elaboration Phase
+
 ![](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Resources/Elaboration2.jpg)  
 The goal is to ensure that the team can actually develop a system that satisfies the requirements.
 
@@ -61,3 +63,5 @@ With the help of the detailed schedule and detailed requirements you are now abl
 |Template|
 |---|
 |[Milestones](https://docs.google.com/spreadsheets/d/1Du0ZyJNEk_0sKSfAKMe3H6vMxC6S8520Nag32If0BRY/edit?usp=sharing)|
+
+# [Next: III. Construction Phase](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md)
