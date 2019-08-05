@@ -111,5 +111,5 @@ to establish baseline rules for the lower skill levels, even then
 rules are no substitute for judgment. As ability to judge increases,
 reliance on rules must be relaxed—along with any rigid institutional
 enforcement.  
-Don’t succumb to the false authority of a tool or a model. There is
-no substitute for thinking.
+Don’t succumb to the false authority of a tool or a model. **There is
+no substitute for thinking.**
