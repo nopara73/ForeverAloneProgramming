@@ -48,7 +48,7 @@ on a time clock, and you can’t prescribe a particular technique
 or set of techniques. Even though you want these traits on your team, you may find that management will stop valuing
 them simply because they cannot be formalized.  
 
-**Legislating behavior that contradicts individual autonomy**
+**Legislating behavior that contradicts individual autonomy**  
 You don’t want a bunch of monkeys banging on typewriters
 to churn out code. You want thinking, responsible developers.
 Overreliance on formal models will tend to reward herd
