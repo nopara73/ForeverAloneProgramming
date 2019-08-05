@@ -64,4 +64,4 @@ With the help of the detailed schedule and detailed requirements you are now abl
 |---|
 |[Milestones](https://docs.google.com/spreadsheets/d/1Du0ZyJNEk_0sKSfAKMe3H6vMxC6S8520Nag32If0BRY/edit?usp=sharing)|
 
-# [Next: III. Construction Phase](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md)
+# [Next: III. Construction Phase](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Construction.md)
