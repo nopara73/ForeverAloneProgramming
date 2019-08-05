@@ -33,11 +33,7 @@ I organize the directory structure of my projects by disciplines. In every disci
 Now grab your lean canvas and put it in the ProjectManagement folder.
 
 ## 3. (Modelling) Define high level requirements  
-What the system will and will not do? I usually just make a list in a .txt for this.
-
-Separate key deliverables from ones that would be nice to have. If you start off listing everything as essential you will never finish your project. 
-
-Key deliverables are ones that solve the problems you listed in the Lean Canvas. These are the things your end users will want to use your system for - they are the key selling points. Everything else should go in to other lists: 'nice to have' and 'later versions'. It is worth noting that by delivering just the key deliverables and pushing your software out there you may well get feedback from users on what extra features they would like to have added and that these may not be ones you envisaged in the beginning. Often it is a good idea to let your users evolve the product's feature set instead of pushing out things that are on your 'nice to have' list.
+What the system will and will not do? I usually just make a list these in a text file.
 
 ## 4. (ProjectManagement) Estimate cost and schedule
 
