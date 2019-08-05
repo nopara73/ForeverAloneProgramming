@@ -8,7 +8,7 @@ This phase usually takes 1 hour to 3 days to me depending on the communication o
 
 # Workflow
 Modelling, Implementation, Testing, Deployment, Project Management: the AUP terminology calls them **disciplines**, so do I.  
-I only include the most relevant disciplines under every **phase** (Inception, Elaboration...), if you feel like you need to work on the other ones, you are free to do so.  
+This document only includes the most relevant disciplines under each and every **phase**, but you may find yourself need to work on the other ones, which is fine.  
 
 ## 1. (ProjectManagement) Gain general understanding over your project  
 |Template|
