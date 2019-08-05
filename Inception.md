@@ -1,3 +1,5 @@
+# I. Inception Phase
+
 ![](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Resources/Inception2.jpg)  
 The goal is to identify the initial scope of the project. 
 
@@ -71,3 +73,6 @@ Keep in mind, not only the stakeholders have to agree, the participants, too. Yo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=BKorP55Aqvg
 " target="_blank"><img src="http://img.youtube.com/vi/BKorP55Aqvg/0.jpg" 
 alt="https://www.youtube.com/watch?v=BKorP55Aqvg" width="240" height="180" border="10" /></a>
+
+
+# [Next: II. Elaboration Phase](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md)
