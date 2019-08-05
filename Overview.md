@@ -13,3 +13,5 @@ Start your software at the Inception phase and "finish" it with the Transition p
 2. [Elaboration](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Elaboration.md): The goal is to ensure that the team can actually develop a system that satisfies the requirements.
 3. [Construction](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Construction.md): The goal is to build working software.
 4. [Transition](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Transition.md): The goal is to validate and deploy your system into your production environment.
+
+# [Next: I. Inception Phase](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Inception.md)
