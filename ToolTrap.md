@@ -54,7 +54,7 @@ to churn out code. You want thinking, responsible developers.
 Overreliance on formal models will tend to reward herd
 behavior and devalue individual creativity.  
 
-**Alienating experienced practitioners in favor of novices**
+**Alienating experienced practitioners in favor of novices**  
 This is a particularly dangerous side effect. By targeting your
 methodology to novices, you will create a poor working environment
 for the experienced team members, and they’ll simply
