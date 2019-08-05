@@ -97,7 +97,7 @@ describe how to get coffee in the morning).
 When is it OK to break the rules? All the time? Never? Somewhere
 in between? How do you know?  
 
-**Mystification**
+**Mystification**  
 Speech becomes so sloganized that it becomes trivial and
 eventually loses meaning entirely (for example, “We’re a
 customer-focused organization!”). Agile methods are fast losing
