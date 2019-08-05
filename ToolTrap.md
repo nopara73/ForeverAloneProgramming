@@ -85,7 +85,7 @@ on this one. If Bob and Alice are hugely productive with
 Eclipse, it might wreck Carol and Ted. They prefer IntelliJ or
 TextMate or vi.  
 
-**Insensitivity to contextual nuances**
+**Insensitivity to contextual nuances**  
 Formal methods are geared to the typical, not the particular.
 But when does the “typical” really ever happen? Context
 is critical to expert performance, and formal methods tend
