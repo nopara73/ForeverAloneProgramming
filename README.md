@@ -27,7 +27,7 @@ Ryan, Halt and Catch Fire|
 |---|
 |If nobody supervises you, you have to supervise yourself.|
   
-Time flew, things changed, books were read, experience were gained and I found myself using a reduced, lean, flexible and completely raped version of AUP.  
+Time flew, things changed, books were read, experience was gained and I found myself using a reduced, lean, flexible and completely raped version of AUP.  
 Now, the time has finally came to armor myself with a guide on this development process.  
 
 ## Disclaimer:
@@ -47,6 +47,6 @@ I am not an expert on the topic, I just outline a practical roadmap that works b
 
 |Tip|
 |---|
-|Are you sharing my obsession with books, TED talks and similar materials? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply them at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something you care about, **consider forking this repo, cloning its wiki have your own version and improve upon it** every time you gain a new insight. And the guilty feeling will evaporate.|
+|Are you sharing my obsession with books, online talks and similar educational and inspiring material? If so, chances are they leave a guilty feeling in you, because you fail to apply the information in practice. The reason is because they are not instantly applicable. You have to apply them at the right time, the right place, in proper context. If you are anything like me and the most important part of your life is when you are working on something you care about, **consider forking this repo to have your own version and improve upon it** every time you gain a new insight. And the guilty feeling will evaporate.|
 
-# Ready? [Go!](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)
+# [Next: Overview](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)
