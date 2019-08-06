@@ -25,9 +25,7 @@ For the smallest projects just do a quick minddump into a .txt.
 |---|
 |Try to do most of the brainstorming away from the computer. When you are sat at a computer it is too tempting to open up a code editor and start to turn an idea that you have had into code. Before long you are deep in code and looking at one the one idea and broken the process of generating ideas. If you weren't writing code you might have had an even better idea if you had carried on thinking about it. For this reason it is often best to force yourself to leave your computer. Take a note book out to a coffee shop, get some big pieces of A3 and some colored pens or a whiteboard and don't stop until you have ran out of ideas. |
 
-It is a lot easier to rub an idea off a whiteboard because you have just had a better one than it is to throw away hours of coding work when you realise the path you are taking is not the best one. 
-
-It is hard for many developers to do this - the temptation to open a new project in an IDE and start writing code is great. For each new piece of work you start - make sure you at least spend 30 minutes with paper and pen beforehand - this will save you hours in the long-term. It is also worth trying to explain out loud to someone (imaginary if no-one else is there) what your idea is and why it is good. Often by doing this you expose shortfalls in it.
+It is a lot easier to rub an idea off a whiteboard because you have just had a better one than it is to throw away hours of coding work when you realise the path you are taking is not the best one.
 
 When you finished you can archive the canvas, it would only be a distraction later.
 
