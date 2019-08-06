@@ -33,7 +33,7 @@ I organize the directory structure of my projects by disciplines. In every disci
 Now grab your lean canvas and put it in the ProjectManagement folder.
 
 ## 3. (Modelling) Define high level requirements  
-What the system will and will not do? I usually just make a list these in a text file.
+What the system will and will not do? I usually just list these in a text file.
 
 ## 4. (ProjectManagement) Estimate cost and schedule
 
