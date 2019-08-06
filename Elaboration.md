@@ -23,7 +23,7 @@ For the smallest projects just do a quick minddump into a .txt.
 
 |Tip|
 |---|
-|Try to do most of the brainstorming away from the computer. When you are sat at a computer it is too tempting to open up a code editor and start to turn an idea that you have had into code. Before long you are deep in code and looking at one the one idea and broken the process of generating ideas. If you weren't writing code you might have had an even better idea if you had carried on thinking about it. For this reason it is often best to force yourself to leave your computer. Take a not book out to a coffee shop, get some big pieces of A3 and some colored pens or a whiteboard and don't stop until you have run out of ideas. |
+|Try to do most of the brainstorming away from the computer. When you are sat at a computer it is too tempting to open up a code editor and start to turn an idea that you have had into code. Before long you are deep in code and looking at one the one idea and broken the process of generating ideas. If you weren't writing code you might have had an even better idea if you had carried on thinking about it. For this reason it is often best to force yourself to leave your computer. Take a note book out to a coffee shop, get some big pieces of A3 and some colored pens or a whiteboard and don't stop until you have run out of ideas. |
 
 It is a lot easier to rub an idea off a whiteboard because you have just had a better one than it is to throw away hours of coding work when you realise the path you are taking is not the best one. 
 
