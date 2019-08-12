@@ -52,7 +52,7 @@ The requirements and your brainstorming efforts will be enough hept to wrap up t
 ## 5. (ProjectManagement) Create a detailed schedule
 Based on the detailed requirements, tests and your previous brainstorming efforts evolve your high level schedule into a detailed one and add some extra time for ~not~ expected complications.  
 
-You can now archive your brainstorming efforts.
+You can now archive your brainstorming efforts and your detailed requirements document, because they are now be included in this document.
 
 ## 6. (ProjectManagement) Adjust costs  
 With the help of the detailed schedule and detailed requirements you are now able to better calculate costs.  
