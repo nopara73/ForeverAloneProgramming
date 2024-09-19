@@ -19,7 +19,8 @@ For the smallest projects just do a quick minddump into a .txt.
 1. Your own brain: Write down anything that crosses your mind.
 2. High level requirements
 3. Lean canvas
-4. External resources (Google)
+4. ChatGPT
+5. External resources (Google)
 
 |Tip|
 |---|
