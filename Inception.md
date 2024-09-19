@@ -32,6 +32,8 @@ First fill out a Lean Canvas. It forces you to think about the relevant question
 I organize the directory structure of my projects by disciplines. In every discipline folder I have an `_Archived` folder for those items I do not actively need anymore, therefore they would only be distractions.  
 Now grab your lean canvas and put it in the ProjectManagement folder.
 
+Update: These days I just use GitHub and not following the disclipine folder structure too closely.
+
 ## 3. (Modelling) Define high level requirements  
 What the system will and will not do? I usually just list these in a text file.
 
