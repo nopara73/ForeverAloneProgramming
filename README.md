@@ -1,6 +1,6 @@
-# Forever Alone Programming
+# Forever Alone Programming II
 
-Software Development Methodology for Solo Programmers and Small Teams
+Not alone anymore! We have minions now. Little souls in the machine can now write and execute code for us. This emerging programming primitive warrants a whole new revision to FAP, the **software development methodology for solo programmers and small teams** which I came up with exaclty a decade ago.
 
 ## Table Of Contents
 
@@ -26,21 +26,27 @@ Ryan, Halt and Catch Fire|
 |---|
 |If nobody supervises you, you have to supervise yourself.|
   
-Time flew, things changed, books were read, experience was gained and I found myself using a reduced, lean, flexible and completely raped version of AUP.  
+Time flew, things changed, books were read, experience was gained and I found myself using a reduced, lean, flexible and completely revised version of AUP.  
 Now, the time has finally came to armor myself with a guide on this development process.  
+
+|10 Years On|
+|---|
+|It’s surreal to read what I wrote back then. I had no idea this simple booklet would lead me to assemble a large team of developers through creating Wasabi Wallet, which now handles $3 billion USD monthly. Nevertheless the project is now in the hands of the open source community and I'm alone again. However I wasn't the only one that changed. The world has changed as well. 10x developers are now drank on their own powers, starting 2 new software projects a day, and talking to their coding agents on their phones while walking their dogs, cooking dinner or taking a dump. |
 
 ## Disclaimer:
 I am not an expert on the topic, I just outline a practical roadmap that works better for me, than anything else I tried before.  
 
+|10 Years On|
+|---|
+|Now I am.|
+
 ## Before you start
 
 ### Ask yourself: "Is FAP right for me?"
-- If you do not enjoy autonomy on what project you do and how you do your project, it is not for you. I mean you should not be a slave in a master-slave relationship with any person or company, you should at least be a partner.  
-  -"I give you $1,000 to build this website for me." - FAP is not for you.  
-  -"I have $1,000, would you like to build a website with me?" - FAP is for you.  
+- If you don’t enjoy autonomy over what you work on and how you do it, this isn’t for you. You shouldn’t be in a master–slave relationship with any person or company—you should at least be a partner:  
+  - "I give you `$1,000` to build this website for me." - **FAP is NOT for you.**  
+  - "I have `$1,000`, would you like to build a website with me?" - **FAP is for you.**  
 - If you have more than a couple of people working for you, it is not the best way to go either.  
-- If you have no experience in the skills your project is expected to be built upon, you would find this method confusing and I do not think is suitable for you.  
-- The other side of the scale is excluding too. If you are the absolute expert on the field, do not bother with FAP, you have already developed practices those are more suitable for you.
 
 ### Read: [Beware the Tool Trap](https://github.com/nopara73/ForeverAloneProgramming/blob/master/ToolTrap.md)  
 
