@@ -2,8 +2,8 @@
 
 | Year | Method | Name | Target Audience | Summary |
 |------|--------|------|----------------|---------|
-| 2003 | RUP | Rational Unified Process | Large teams | Iterative waterfall with rigid, top-down structure and heavy documentation. |
-| 2010 | AUP | Agile Unified Process | Teams | Simplified RUP using agile techniques while retaining core structure. |
+| 2003 | RUP | [Rational Unified Process](https://en.wikipedia.org/wiki/Rational_unified_process) | Large teams | Iterative waterfall with rigid, top-down structure and heavy documentation. |
+| 2010 | AUP | [Agile Unified Process](https://en.wikipedia.org/wiki/Agile_unified_process) | Teams | Simplified RUP using agile techniques while retaining core structure. |
 | 2016 | FAP | Forever Alone Programming | Solo / small teams | Further simplification for individuals or very small teams. |
 | 2026 | FAP2 | Forever Alone Programming II | AI-augmented builders | Revision of FAP adapted to AI-driven development workflows. |
 
