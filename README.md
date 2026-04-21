@@ -1,6 +1,8 @@
 # Forever Alone Programming II
 
-Not alone anymore! We have minions now. Little souls in the machine can now write and execute code for us. This emerging programming primitive warrants a whole new revision to FAP, the **software development methodology for solo programmers and small teams** which I came up with exaclty a decade ago.
+_Software development methodology for AI augmented builders._
+
+Not alone anymore! We have minions now. Little souls in the machine can now write and execute code for us. This emerging programming primitive warrants a whole new revision to FAP, the software development methodology for solo programmers and small teams which I came up with exactly a decade ago.
 
 ## Table Of Contents
 
