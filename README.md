@@ -2,6 +2,8 @@
 
 Software Development Methodology for Solo Programmers and Small Teams
 
+By [Ádám Ficsór (nopara73)](https://adamficsor.com/).
+
 ## Table Of Contents
 
 [Overview](https://github.com/nopara73/ForeverAloneProgramming/blob/master/Overview.md)  
